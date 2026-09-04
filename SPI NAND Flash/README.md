@@ -93,4 +93,4 @@ Inherent manufacturing and operational degradation. NOR Flash arrays ship from t
 * Factory Defect Mapping: During device initialization, the driver must scan the factory-defined bad block markers, typically located in the spare area of the first or last page of a block. These identified blocks are flagged in a Bad Block Table (BBT) and permanently excluded from the file system's usable memory space to prevent data loss.
 
 
-[click to download PDF](./F35UQB001G.pdf)
+[click to download PDF](./F35UQB001G.png)
