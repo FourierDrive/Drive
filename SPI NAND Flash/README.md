@@ -94,3 +94,5 @@ Inherent manufacturing and operational degradation. NOR Flash arrays ship from t
 
 
 [click to download PDF](./F35UQB001G.png)
+
+![image](./1.png)
