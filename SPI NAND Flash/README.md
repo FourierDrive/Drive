@@ -91,3 +91,6 @@ Inherent manufacturing and operational degradation. NOR Flash arrays ship from t
 * Wear Leveling: NAND Flash cells have a finite endurance cycle, typically ranging from 1,000 to 100,000 cycles depending on the cell type. FTL software must implement wear leveling algorithms—distributing write/erase operations evenly across all physical blocks—to prevent premature device failure caused by concentrating updates on specific logical address ranges.
 
 * Factory Defect Mapping: During device initialization, the driver must scan the factory-defined bad block markers, typically located in the spare area of the first or last page of a block. These identified blocks are flagged in a Bad Block Table (BBT) and permanently excluded from the file system's usable memory space to prevent data loss.
+
+
+[click to download PDF](./F35UQB001G.pdf)
